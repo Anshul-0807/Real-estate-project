@@ -73,7 +73,7 @@ if st.button("Show Detailed Explanation"):
     
     **VI. Recommender System Expedition: Personalizing the Real Estate Experience**
     
-    Venturing into uncharted territory, we undertake the creation of a recommender system. Navigating complexities inherent in personalizing property suggestions, this expedition enhances user experience. The system becomes a guide, offering tailored recommendations and transforming how users interact with Gurgaon's diverse real estate offerings.
+    Venturing into uncharted territory, we undertake the creation of a recommender system. Navigating complexities inherent in personalizing property suggestions, this expedition enhances user experience. The system becomes a guide, offering tailored recommendations and transforming how users interact with Gurgaon's diverse real estate offerings..
     
     **VII. Modular Programming Mastery: Crafting Code Efficiency**
     
